@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stream950PoC": {
+      "commandName": "Project",
+      "commandLineArgs": "COM3"
+    }
+  }
+}
